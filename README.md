@@ -52,4 +52,4 @@ This project demonstrates a complete end-to-end machine learning pipeline — fr
 └── README.md
 ```
 
-- The goal was to build a data-driven solution that can assist buyers, sellers, and businesses in making informed pricing decisions.
+The goal was to build a data-driven solution that can assist buyers, sellers, and businesses in making informed pricing decisions.
