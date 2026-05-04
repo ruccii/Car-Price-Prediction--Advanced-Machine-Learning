@@ -51,7 +51,4 @@ This project demonstrates a complete end-to-end machine learning pipeline — fr
 │   └── Car price prediction report.pdf
 └── README.md
 
-
-
-
-The goal is to build a robust, data-driven solution that can assist buyers, sellers, and businesses in making informed pricing decisions.
+## The goal was to build a data-driven solution that can assist buyers, sellers, and businesses in making informed pricing decisions.
