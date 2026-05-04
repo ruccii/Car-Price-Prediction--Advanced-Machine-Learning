@@ -1,6 +1,6 @@
 # 🚗 Car Price Prediction - Advanced Machine Learning
 
-**A robust used car price prediction system** built with advanced data science techniques, achieving **92.7% R² accuracy**.
+**A robust car price prediction system** built with advanced Machine learning techniques, achieving **92.7% R² accuracy**.
 
 This project demonstrates a complete end-to-end machine learning pipeline — from exploratory data analysis and sophisticated feature engineering to ensemble modeling, model interpretability with SHAP, and a production-ready web application.
 
